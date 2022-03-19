@@ -6,7 +6,7 @@
 Summary:	Simple monadic parser for ASN1 stream types
 Name:		ghc-%{pkgname}
 Version:	0.9.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/asn1-parse
